@@ -1,6 +1,8 @@
 # Clustering algorithm for BLOC514
 
-This repository holds an clustering algorithm for UNIC course BLOC514 assignment 1 part B.
+This repository holds an clustering algorithm for UNIC course BLOC514 assignment 1 part B with the following data:
+
+![plot](./images/data.png)
 
 ## How the algorithm works
 
