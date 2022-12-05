@@ -42,10 +42,10 @@ const clusterAlgorithm = (
 
   // the given data for all users transactions
   const totalData: Array<Array<number>> = [
-    [0, 5, 0, 6, 0, 4, 0],
+    [2, 5, 0, 6, 0, 4, 0],
     [3, 0, 3, 0, 0, 0, 3],
     [0, 0, 0, 0, 6, 0, 8],
-    [4, 0, 0, 7, 0, 3, 0],
+    [4, 2, 0, 7, 0, 3, 0],
     [3, 0, 4, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 9, 7],
     [0, 0, 0, 0, 1, 0, 0],
